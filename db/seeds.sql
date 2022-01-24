@@ -20,6 +20,6 @@ values
 ('Mike', 'Michaelson', 1, 2),
 ('Jeff', 'Jefferson', 2, 3),
 ('Sam', 'Samuelson', 3, 4),
-('Christina', 'Christinalson', 4, 5)
+('Christina', 'Christinalson', 4, 5),
 ('Stacy', 'Stacelson', 5, 6),
 ('Hannah', 'Hamburger', 6, 7);
